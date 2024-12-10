@@ -1,0 +1,11 @@
+Metric,Value
+Total Cost (Normal),24.863522948800007
+Total Cost (Fuzzy),24.863522948800007
+Final SOH (Normal),99.37111729409149
+Final SOH (Fuzzy),99.83105885622993
+Total Grid Energy (Normal),98.64761474400001
+Total Grid Energy (Fuzzy),98.64761474400001
+Average DoD (Normal),2.062702123968383
+Average DoD (Fuzzy),1.38476347352505
+Battery Efficiency (Normal),0.23389946792909785
+Battery Efficiency (Fuzzy),0.23389946792909785
